@@ -1,0 +1,14 @@
+D:\mycode\csharp\design-patterns\chat-mediator-pattern-example\chat-mediator-pattern-example\bin\Debug\net7.0\chat-mediator-pattern-example.exe
+D:\mycode\csharp\design-patterns\chat-mediator-pattern-example\chat-mediator-pattern-example\bin\Debug\net7.0\chat-mediator-pattern-example.deps.json
+D:\mycode\csharp\design-patterns\chat-mediator-pattern-example\chat-mediator-pattern-example\bin\Debug\net7.0\chat-mediator-pattern-example.runtimeconfig.json
+D:\mycode\csharp\design-patterns\chat-mediator-pattern-example\chat-mediator-pattern-example\bin\Debug\net7.0\chat-mediator-pattern-example.dll
+D:\mycode\csharp\design-patterns\chat-mediator-pattern-example\chat-mediator-pattern-example\bin\Debug\net7.0\chat-mediator-pattern-example.pdb
+D:\mycode\csharp\design-patterns\chat-mediator-pattern-example\chat-mediator-pattern-example\obj\Debug\net7.0\chat-mediator-pattern-example.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycode\csharp\design-patterns\chat-mediator-pattern-example\chat-mediator-pattern-example\obj\Debug\net7.0\chat-mediator-pattern-example.AssemblyInfoInputs.cache
+D:\mycode\csharp\design-patterns\chat-mediator-pattern-example\chat-mediator-pattern-example\obj\Debug\net7.0\chat-mediator-pattern-example.AssemblyInfo.cs
+D:\mycode\csharp\design-patterns\chat-mediator-pattern-example\chat-mediator-pattern-example\obj\Debug\net7.0\chat-mediator-pattern-example.csproj.CoreCompileInputs.cache
+D:\mycode\csharp\design-patterns\chat-mediator-pattern-example\chat-mediator-pattern-example\obj\Debug\net7.0\chat-mediator-pattern-example.dll
+D:\mycode\csharp\design-patterns\chat-mediator-pattern-example\chat-mediator-pattern-example\obj\Debug\net7.0\refint\chat-mediator-pattern-example.dll
+D:\mycode\csharp\design-patterns\chat-mediator-pattern-example\chat-mediator-pattern-example\obj\Debug\net7.0\chat-mediator-pattern-example.pdb
+D:\mycode\csharp\design-patterns\chat-mediator-pattern-example\chat-mediator-pattern-example\obj\Debug\net7.0\chat-mediator-pattern-example.genruntimeconfig.cache
+D:\mycode\csharp\design-patterns\chat-mediator-pattern-example\chat-mediator-pattern-example\obj\Debug\net7.0\ref\chat-mediator-pattern-example.dll
